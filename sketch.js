@@ -8,7 +8,7 @@ var box1;
 var platform;
 var bird, slingShot;
 var gameState = "onSling";
-var bg = "bg1.png";
+var bg; 
 var score = 0;
 var backgroundImg;
 
